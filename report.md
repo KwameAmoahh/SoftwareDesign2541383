@@ -1,2 +1,2 @@
 # SoftwareDesign2541383
-In this lab, I was able to create a new repository by the name of SoftwareDesign2541383. From there, I made two separate commits where before each commit, I added information to my index file and report.
+In this lab, I was able to create a new repository by the name of SoftwareDesign2541383 and a simple webpage using HTML. From there, I made two separate commits where before each commit, I added information to my index file and report. I encountered issues with pushing my files to GitHub but was able to resolve them by restarting my project.
